@@ -1,3 +1,7 @@
-token=NTUyODg5ODY5ODkxMDEwNTYw.D2GG6Q.uBRgzjy0JBXs96nmOZCVzaWKV9k
+?token=?NTUzMjQ0NjMzODQxMjcwODE0.D2LQ7w.fNPiEpCEbMucw9zjDNxmRmdok0Y
 owner=347026764351930378
-prefix =A
+prefix= A
+game= MADE by Artful DoDger
+stayinchannel=true
+songinstatus=true 
+token=NTUzMjQ0NjMzODQxMjcwODE0.D2LQ7w.fNPiEpCEbMucw9zjDNxmRmdok0Y
